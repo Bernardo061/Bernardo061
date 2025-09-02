@@ -32,7 +32,7 @@ Me chamo João Bernardo Dias de Brito, tenho 22 anos e sou natural de Taguatinga
             src="https://custom-icon-badges.demolab.com/github/followers/Bernardo061?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=mail&label=drip.designer16@hotmail.com&logoColor=white"
         /> 
     </a>
-    <a href="wa.me/+5561996353543" title="Me ligue">
+    <a href="https://wa.me/+5561996353543 " title="Fale comigo!">
         <img 
             alt="WhatsApp" 
             src="https://custom-icon-badges.demolab.com/github/followers/Bernardo061?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=whatsapp&label=WhatsApp&logoColor=white"
