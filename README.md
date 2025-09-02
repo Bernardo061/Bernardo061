@@ -76,9 +76,74 @@ Me chamo João Bernardo Dias de Brito, tenho 22 anos e sou natural de Taguatinga
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="PostgreSql" 
+    title="PostgreSql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
 
 <br/>
 <br/>
+
+### ⚙️ Tools | Ferramentas & IDE's ⚙️
+
+<img 
+    align="left" 
+    alt="Visual Studio 2022" 
+    title="Visual Studio 2022"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Visual Studio Code" 
+    title="Visual Studio Code"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSql" 
+    title="PostgreSql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Photoshop" 
+    title="Potoshop"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Canva" 
+    title="Canva"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
+/>
+
+<br>
+<br>
+
+---
+
 
 ### 📊 Estatísticas
 
@@ -99,5 +164,4 @@ Me chamo João Bernardo Dias de Brito, tenho 22 anos e sou natural de Taguatinga
   />
 
 </p>
-
 
