@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Bernardo Dias de Brito, tenho 22 anos e sou natural de Taguatinga, DF. Concluí o ensino médio no CEM 804. Atualmente, estou cursando Engenharia de Software no CEUB. Sou apaixonada por tecnologia e estou aprimorando meus conhecimentos na parte de desenvolvimento FullStack.
+Meu nome é João Bernardo Dias de Brito, tenho 22 anos e sou natural de Taguatinga - DF, atualmente residente no Recanto das Emas - DF. Concluí o ensino médio no Centro de Ensino Médio 804 em 2020 e, atualmente, curso Engenharia de Software no Centro Universitário de Brasília (CEUB), em Taguatinga. Sou apaixonada por tecnologia e estou aprimorando meus conhecimentos na parte de desenvolvimento FullStack.
 
 <p align="left">
     <a href="https://github.com/Bernardo061?tab=repositories&sort=stargazers">
