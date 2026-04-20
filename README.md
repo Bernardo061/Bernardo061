@@ -29,7 +29,7 @@ Meu nome é João Bernardo Dias de Brito, tenho 22 anos e sou natural de Taguati
     <a href="mailto:drip.designer16@hotmail.com" title="Me envie um e-mail">
         <img 
             alt="E-mail" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Bernardo061?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=mail&label=drip.designer16@hotmail.com&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Bernardo061?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=mail&label=joaobernardo061@hotmail.com&logoColor=white"
         /> 
     </a>
     <a href="https://wa.me/+5561996353543 " title="Fale comigo!">
